@@ -10,7 +10,6 @@ public class GameManager : MonoBehaviour {
 	public ObsCamera obsCamera;
 	public InventoryDisplay inventoryDisplay;
 	public NavCharacter navCharacter;
-
 	public CameraRig cameraRig;
 
 	[HideInInspector]
